@@ -1,5 +1,5 @@
-#project key
-sonar.projectKey=jubeeyste
+sonar.projectKey=sonar-qube-with-jenkins
 
-#Token
-sqa_a6dbbc8858586a9491568b2d22527a402f9a6c8b 
+
+Token:
+sqa_46306cef0c8b5942865901d278c8608fb025446c
