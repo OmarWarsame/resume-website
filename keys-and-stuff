@@ -1,5 +1,6 @@
-sonar.projectKey=sonar-qube-with-jenkins
+key 
+sonar.projectKey=sonar-qube
 
 
-Token:
-sqa_46306cef0c8b5942865901d278c8608fb025446c
+token 
+sqa_78f154822c396d3afd3ab4b43293474d740b6d10
